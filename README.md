@@ -1,6 +1,7 @@
 # embedded_electronics
 The embedded part of the code for the electronics of PI2.
 It should work.
+
 Video of the complete project: https://youtu.be/S9ffWVY8ros
 
 In to autorun  the codes at startup, do as follows:
